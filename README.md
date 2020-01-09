@@ -14,11 +14,11 @@ best attack modifier.
 
 - best attacker against single-type defender
 - best single-type defender against attacking type
+- best attacker against dual-type defender
+- best dual-type defender against attacking type
 
 ### TODO
 
-- best attacker against dual-type defender
-- best dual-type defender against attacking type
 - overall best defender (how to score this?)
 - CLI interface
 
